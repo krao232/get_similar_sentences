@@ -1,0 +1,3 @@
+
+NFERX_PY_USER = 'krao@nference.net'
+API_KEY_PRE_STAGING = '4c71c36539e18f5dccd4c7d91b028e72'
